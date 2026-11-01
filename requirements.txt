@@ -1,0 +1,6 @@
+# The library and the programs use only the Python standard library.
+# These packages are needed for the tests, the SymPy cross-check and the figures.
+pytest==9.2.0
+hypothesis==6.170.14
+sympy==1.14.0
+matplotlib==3.11.2

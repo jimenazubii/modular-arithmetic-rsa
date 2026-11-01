@@ -1,0 +1,9 @@
+file,gold_s,this version (s),this version tier,course version (s),course version tier
+primosTest.txt,0.73,0.4426,gold,1.7274,silver
+factorTest.txt,1.99,0.0446,gold,0.9198,gold
+mcdTest.txt,1.0,0.7331,gold,0.7178,gold
+potenciaTest.txt,0.12,0.0946,gold,0.0911,gold
+invTest.txt,3.125,1.667,gold,2.4072,gold
+eulerTest.txt,0.779,0.0325,gold,0.3311,gold
+sistemaTest.txt,0.988,0.0215,gold,0.0203,gold
+cuadraticaTest.txt,0.218,0.0508,gold,0.0148,gold
